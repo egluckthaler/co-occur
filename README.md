@@ -1,2 +1,2 @@
 # co-occur
-scripts for implementing the CO-OCCUR pipeline for gene cluster detection
+scripts for implementing the CO-OCCUR gene cluster detection pipeline
